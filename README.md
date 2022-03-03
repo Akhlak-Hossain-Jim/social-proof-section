@@ -1,5 +1,8 @@
 # Frontend Mentor - Social proof section
 
+https://github.com/Akhlak-Hossain-Jim/social-proof-section <br>
+https://akhlak-hossain-jim.github.io/social-proof-section/
+
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
